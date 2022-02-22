@@ -1,0 +1,109 @@
+html, body{
+margin: 0;
+padding: 0;
+font-family: Inter;
+font-style: normal;
+color: #FFFFFF;
+}
+.container{
+    width: 550px;
+    height: auto;
+    margin: 0 auto;
+    background: #1F2937;
+    margin-top: 7%;
+}
+.first-layer{
+    background: #3A69D2;
+    padding: 30px;
+    margin: 25px 0;
+    text-align: center;
+}
+.first-layer h1{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-bottom: 0;
+    padding: 0;
+}
+.first-layer p{
+    color: #FFFFFF;
+    margin-top: 2px;
+}
+.second-layer{
+    margin: 5px 10px;
+    padding: 0 20px;
+}
+
+.service-btn button{
+    padding: 15px;
+    font-size: 15px;
+    background: #D1D4F4;
+    border: 2px solid #FFFFFF;
+    border-radius: 7px;
+    margin:0 10px;
+    align-items: center;
+    color: #4A4E74;
+} 
+.display{
+    border-bottom: 1px solid #C3C6DB;
+}
+.left{
+    font-size: 10px;
+}
+.right{
+    float: right;
+    font-size: 10px;
+}
+span .text-accent{
+    font-size: 7px;
+}
+.result {
+    display: flex;
+    width: 450px;
+    height: 300px;
+    border: 1px solid red;
+
+}
+.result .right{
+    
+}
+.reset-btn{
+    width: 100%;
+    color: #FFFFFF;
+    background-color: #3A69D2;
+    padding: 9px 17px 9px 15px;
+    margin: 25px 0;
+    border: none;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 7px;
+}
+.reset-btn .text-space{
+    margin-left: 5px;
+}
+
+
+
+/* background: #3A69D2; 
+background: #1F2937;
+
+background: #4A4E74;
+
+button 
+
+background: #D1D4F4;
+border: 2px solid #FFFFFF;
+border-radius: 7px;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px;
+
+position: absolute;
+width: 143.17px;
+height: 45px;
+left: 38px;
+top: 231px;
+
+border: 1px solid #C3C6DB;
+*/
